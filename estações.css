@@ -1,0 +1,39 @@
+﻿table
+{
+    width ="150px" height=""
+      
+}
+td 
+{
+    border-width: 3px;
+    text-align: center;
+    border-style: solid;
+    border-radius:5px;
+    font-family: Verdana;
+    font-size:20pt;
+}
+.imagem
+{
+    height: 150px; 
+    width:200px;
+}
+.vermelho
+{
+    border-color:red; 
+}
+.verde
+{
+    border-color:green;
+}
+.amarelo
+{
+    border-color: gold;
+}
+.marrom
+{
+    border-color: saddlebrown
+}
+.baleia 
+{
+    border-color: blue;
+}
